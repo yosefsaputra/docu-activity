@@ -21,7 +21,9 @@ Ordinarium: Misa Manado
 
 # Lirik Lagu
 
-*pending*
+[klik di sini](./lirik-lagu.md)
+
+untuk buku misa
 
 # Music Sheet
 
