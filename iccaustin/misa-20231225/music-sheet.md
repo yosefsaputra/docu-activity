@@ -8,4 +8,4 @@
 
 ![](../musicsheets/ps-457.png)
 
-<embed src="../musicsheets/Deck-the-Halls-F-Major.pdf" type="application/pdf">
+![](../musicsheets/Deck-the-Halls-F-Major.png)
