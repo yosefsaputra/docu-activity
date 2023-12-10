@@ -18,3 +18,7 @@ Ordinarium: Misa Manado
 | Komuni 1                 | O Come, All Ye Faithful | https://www.youtube.com/watch?v=1tM5pwvUGMI |     |
 | Komuni 2                 | Gita Surga Bergema      | https://www.youtube.com/watch?v=nMv_Ov5ZOpo |     |
 | Penutup                  | Joy to The World        | https://www.youtube.com/watch?v=SDkl-KQB698 |     |
+
+# Lirik Lagu
+
+# Music Sheet
