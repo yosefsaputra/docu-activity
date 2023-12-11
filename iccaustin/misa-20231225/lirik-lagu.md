@@ -5,18 +5,18 @@
 ```
 Maklumat tentang kelahiran Yesus Kristus, penyelamat dunia.
 Beribu-ribu abad, sesudah bumi dan segala isinya diciptakan;
-Delapan belas abad, sesudah  Abraham menanggapi panggilan Allah;
-Dua belas setengah abad, sesudah Musa diutus  Allah,
-untuk mengantarkan umat  Israel ke tanah yang dijanjikan;
+Delapan belas abad, sesudah Abraham menanggapi panggilan Allah;
+Dua belas setengah abad, sesudah Musa diutus Allah,
+untuk mengantarkan umat Israel ke tanah yang dijanjikan;
 Sepuluh abad, sesudah Daud dipilih Allah menjadi raja umat-Nya;
 Lima abad, sesudah sisa umat Allah diantarkan kembali
-dari  pembuangan Babel;
+dari pembuangan Babel;
 Sesudah kegenapan masa tiba,
-waktu  Kaisar Agustus mengeluarkan perintah
-un-tuk  mengadakan cacah  jiwa di seluruh wilayah kerajaannya.
-Maka, sesudah dikandung  Perawan  Maria
-oleh kuasa  Roh Kudus, lahirlah di  Betlehem, daerah Yehuda,
-Yesus  Kristus, Putera Bapa, un-tuk  menyelamatkan umat  manusia.
+waktu Kaisar Agustus mengeluarkan perintah
+un-tuk mengadakan cacah jiwa di seluruh wilayah kerajaannya.
+Maka, sesudah dikandung Perawan Maria
+oleh kuasa Roh Kudus, lahirlah di Betlehem, daerah Yehuda,
+Yesus Kristus, Putera Bapa, untuk menyelamatkan umat manusia.
 ```
 
 ## Deck the Halls
