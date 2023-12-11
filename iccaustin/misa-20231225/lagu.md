@@ -27,4 +27,6 @@ untuk buku misa
 
 # Music Sheet
 
-*pending*
+[markdown](./music-sheet.md)
+
+[printable version](./misa-20231225-music-sheet.pdf)
