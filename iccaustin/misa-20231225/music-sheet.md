@@ -12,7 +12,7 @@
 
 ![Kudus](../musicsheets/ps-394.png)
 
-![Bapa Kami]()
+![Bapa Kami](../musicsheets/bapa-kami-putut.png)
 
 ![Salam Damai]()
 
