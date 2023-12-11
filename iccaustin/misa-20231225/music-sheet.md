@@ -4,9 +4,9 @@
 
 ![Kemuliaan](../musicsheets/ps-356.png)
 
-![Mazmur]()
+![Mazmur & Alleluya](../musicsheets/tahun%20a%20hari%20raya%20natal%20siang%20ed%202020-0.png)
 
-![Alleluya]()
+![Mazmur & Alleluya](../musicsheets/tahun%20a%20hari%20raya%20natal%20siang%20ed%202020-1.png)
 
 ![Persembahan - Karena Aku Kau Cinta](../musicsheets/karena-aku-kaucinta.png)
 
@@ -14,7 +14,7 @@
 
 ![Bapa Kami](../musicsheets/bapa-kami-putut.png)
 
-![Salam Damai]()
+![Salam Damai](../musicsheets/salam-damai-mb147.png)
 
 ![Anak Domba Allah](../musicsheets/ps-415.png)
 
