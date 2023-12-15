@@ -1,0 +1,10 @@
+![](../musicsheets/14-aklamasi-sesudah-injil-1.png)
+![](../musicsheets/14-aklamasi-sesudah-injil-2.png)
+![](../musicsheets/19-dsa-anamnesis-1a.png)
+![](../musicsheets/19-dsa-anamnesis-1b.png)
+![](../musicsheets/19-dsa-anamnesis-2a.png)
+![](../musicsheets/19-dsa-anamnesis-2b.png)
+![](../musicsheets/19-dsa-anamnesis-3a.png)
+![](../musicsheets/19-dsa-anamnesis-3b.png)
+![](../musicsheets/19-dsa-doksologi.png)
+
