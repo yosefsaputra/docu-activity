@@ -112,13 +112,14 @@ kuingin hidup bagiMu Yesus.
 
 ## Kudus
 
+```
 Kudus, kudus, kuduslah Tuhan
 Tuhan Allah segala kuasa
 Surga dan bumi penuh kemuliaanMu
 Terpujilah Engkau di surga
 Diberkatilah yang datang dalam nama Tuhan
 Terpujilah Engkau di surga
-
+```
 
 ## Anak Domba Allah
 
