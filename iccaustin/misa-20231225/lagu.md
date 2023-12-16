@@ -10,8 +10,10 @@ Ordinarium: Misa Manado
 | Kemuliaan                | PS 356                  | https://www.youtube.com/watch?v=KFcAQawtgnc |     | [1](https://www.youtube.com/watch?v=xnUAkL0Q93s) |
 | Mazmur                   | PS 807                  |                                             |     |                                                  |
 | Alleluya                 | PS 951                  |                                             |     |                                                  |
+| Aklamasi Sesudah Injil   |                         |                                             |     |                                                  |
 | Persembahan              | Karena Aku Kau Cinta    | https://www.youtube.com/watch?v=V4EZizeoOMY |     | [1](https://www.youtube.com/watch?v=fwemsrvYjvw) |
 | Kudus                    | PS 394                  | https://www.youtube.com/watch?v=BpdKevR_3UI |     | [1](https://www.youtube.com/watch?v=_7ioTuY4l_Y) |
+| Anamnesis                | Anamnesis 4 - 2005      |                                             |     |                                                  |
 | Anak Domba Allah         | PS 415                  | https://www.youtube.com/watch?v=ml5WdrjWhL4 |     | [1](https://www.youtube.com/watch?v=gdMJ8Tx4LZQ) |
 | Bapa Kami                | by Putut                | https://www.youtube.com/watch?v=XAI_p7LL7k0 |     | [1](https://www.youtube.com/watch?v=9kydISavdKE) |
 | Salam Damai              |                         |                                             |     |                                                  |
