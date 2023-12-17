@@ -21,8 +21,8 @@
 
 ![Anak Domba Allah](../musicsheets/ps-411b.png)
 
-![Komuni 1 - O Come All Ye Faithful](../musicsheets/O-Come-All-Ye-Faithful-G-Major.png)
+![Komuni 1 - Gita Surga Bergema](../musicsheets/ps-457.png)
 
-![Komuni 2 - Gita Surga Bergema](../musicsheets/ps-457.png)
+![Komuni 2 - O Come All Ye Faithful](../musicsheets/O-Come-All-Ye-Faithful-G-Major.png)
 
 ![Penutup - Joy to The World](../musicsheets/Joy-To-The-World-D-Major-1.png)
