@@ -1,8 +1,8 @@
 ![Pembuka - Deck the Halls](../musicsheets/Deck-the-Halls-F-Major.png)
 
-![Tuhan Kasihanilah Kami](../musicsheets/ps-355.png)
+![Tuhan Kasihanilah Kami](../musicsheets/ps-347b.png)
 
-![Kemuliaan](../musicsheets/ps-356.png)
+![Kemuliaan](../musicsheets/ps-348b.png)
 
 ![Mazmur & Alleluya](../musicsheets/tahun%20a%20hari%20raya%20natal%20siang%20ed%202020-0.png)
 
@@ -10,13 +10,13 @@
 
 ![Persembahan - Karena Aku Kau Cinta](../musicsheets/karena-aku-kaucinta.png)
 
-![Kudus](../musicsheets/ps-394.png)
+![Kudus](../musicsheets/ps-390b.png)
 
 ![Bapa Kami](../musicsheets/bapa-kami-putut.png)
 
 ![Salam Damai](../musicsheets/salam-damai-mb147.png)
 
-![Anak Domba Allah](../musicsheets/ps-415.png)
+![Anak Domba Allah](../musicsheets/ps-411b.png)
 
 ![Komuni 1 - O Come All Ye Faithful](../musicsheets/O-Come-All-Ye-Faithful-G-Major.png)
 
