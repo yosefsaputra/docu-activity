@@ -1,3 +1,6 @@
+![Maklumat Kelahiran Yesus Kristus](../musicsheets/maklumatkelahiran-0.png)
+![Maklumat Kelahiran Yesus Kristus](../musicsheets/maklumatkelahiran-1.png)
+
 ![Pembuka - Deck the Halls](../musicsheets/Deck-the-Halls-F-Major.png)
 
 ![Tuhan Kasihanilah Kami](../musicsheets/ps-347b.png)
