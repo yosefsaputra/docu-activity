@@ -1,19 +1,21 @@
 # Judul Lagu
 
-Ordinarium: Misa Kita IV
+Ordinarium: Misa Lauda Sion
 
-| Sesi                   | Lagu  | Audio                        |
-| ---------------------- | ----- | ---------------------------- |
-| Pembuka                |       |                              |
-| Tuhan Kasihanilah Kami |       |                              |
-| Kemuliaan              |       |                              |
-| Mazmur                 |       |                              |
-| Alleluya               |       |                              |
-| Persembahan            |       |                              |
-| Kudus                  |       |                              |
-| Anak Domba Allah       |       |                              |
-| Bapa Kami              |       |                              |
-| Salam Damai            |       |                              |
-| Komuni 1               | Kasih | https://youtu.be/94W3BKRaDVY |
-| Komuni 2               |       |                              |
-| Penutup                |       |                              |
+| Sesi                   | Lagu                        | Nyanyi | Music | Key |
+| ---------------------- | --------------------------- | ------ | ----- | --- |
+| Pembuka                | PS322 Saudara Mari Semua    |        |       |     |
+| Tuhan Kasihanilah Kami | PS347b                      |        |       |     |
+| Kemuliaan              | PS348b                      |        |       |     |
+| Mazmur                 |                             |        |       |     |
+| Alleluya               |                             |        |       |     |
+| Persembahan            | PS321 Wahai Umat            |        |       |     |
+| Kudus                  | PS390                       |        |       |     |
+| Anak Domba Allah       | PS411                       |        |       |     |
+| Bapa Kami              | MB144                       |        |       |     |
+| Salam Damai            |                             |        |       |     |
+| Komuni 1               | PS592 Syukur KepadaMu Tuhan |        |       |     |
+| Komuni 2               | PS552 Terpuji Raja Kristus  |        |       |     |
+| Penutup                | PS524 Kristus bangkit       |        |       |     |
+
+[Youtube Playlist](https://youtube.com/playlist?list=PLiUwgKtVgphbTBx6sdT2btl-sBYCWg8nB&feature=shared)
