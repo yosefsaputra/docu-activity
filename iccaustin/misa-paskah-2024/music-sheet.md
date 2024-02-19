@@ -10,9 +10,9 @@
 
 ![Persembahan - PS321 Wahai Umat](../musicsheets/ps-321.png)
 
-![Kudus - PS390](../musicsheets/ps-390.png)
+![Kudus - PS390](../musicsheets/ps-390b.png)
 
-![Anak Domba Allah - PS411](../musicsheets/ps-411.png)
+![Anak Domba Allah - PS411](../musicsheets/ps-411b.png)
 
 ![Bapa Kami - MB144](../musicsheets/mb-144.png)
 
