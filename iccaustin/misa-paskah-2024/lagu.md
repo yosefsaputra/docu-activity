@@ -19,3 +19,9 @@ Ordinarium: Misa Lauda Sion
 | Penutup                | PS524 Kristus bangkit       |        |       |     |
 
 [Youtube Playlist](https://youtube.com/playlist?list=PLiUwgKtVgphbTBx6sdT2btl-sBYCWg8nB&feature=shared)
+
+# Music Sheet
+
+[markdown](./music-sheet.md)
+
+[printable version](./misa-20240331-music-sheet.pdf)
