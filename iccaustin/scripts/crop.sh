@@ -42,3 +42,6 @@ resize "tahun a hari raya paskah ed 2020-a.png" "tahun a hari raya paskah ed 202
 
 crop "tahun a hari raya paskah ed 2020-1.png" "tahun a hari raya paskah ed 2020-b.png" 80 80 60 240
 resize "tahun a hari raya paskah ed 2020-b.png" "tahun a hari raya paskah ed 2020-b.png"
+
+crop "../musicsheets/png/bapa-kami-filipina.png" "../musicsheets/png/bapa-kami-filipina-o.png" 20 80 180 100
+resize "../musicsheets/png/bapa-kami-filipina-o.png" "../musicsheets/png/bapa-kami-filipina-o.png"

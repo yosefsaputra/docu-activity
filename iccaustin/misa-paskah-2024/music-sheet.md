@@ -14,7 +14,7 @@
 
 ![Anak Domba Allah - PS411](../musicsheets/ps-411b.png)
 
-![Bapa Kami - MB144](../musicsheets/mb-144.png)
+![Bapa Kami - MB144](../musicsheets/bapa-kami-filipina.png)
 
 ![Salam Damai - ](../musicsheets/salam-damai-mb147.png)
 
