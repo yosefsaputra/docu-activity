@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files=(ps-347b.png ps-348b.png ps-390b.png ps-411b.png)
+files=(ps-347b.png ps-348b.png ps-390b.png ps-411b.png ps-322.png ps-592.png ps-552a.png ps-524.png)
 dir=../musicsheets
 
 function resize() {

@@ -4,9 +4,9 @@
 
 ![Kemuliaan - PS348b](../musicsheets/ps-348b.png)
 
-![Mazmur - ]()
+![Mazmur - 033](../musicsheets/tahun%20a%20hari%20raya%20paskah%20ed%202020-a.png)
 
-![Alleluya - ]()
+![Alleluya - 959](../musicsheets/tahun%20a%20hari%20raya%20paskah%20ed%202020-b.png)
 
 ![Persembahan - PS321 Wahai Umat](../musicsheets/ps-321.png)
 
