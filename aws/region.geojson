@@ -22,6 +22,39 @@
         "type": "Point",
         "coordinates": [-120.554201, 44.048201]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "eu-west-2 ",
+        "name": "Oregon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.554201, 44.048201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "eu-west-2",
+        "name": "London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "eu-central-1",
+        "name": "Frankfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6821, 50.1109]
+      }
     }
   ]
 }
